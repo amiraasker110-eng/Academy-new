@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://academy-new-chi.vercel.app/sitemap.xml
